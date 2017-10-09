@@ -104,3 +104,9 @@ group :site do
   gem "jekyll-sitemap"
   gem "jemoji"
 end
+group :jekyll_plugins do
+   gem "jekyll-gist"
+   gem "jekyll-coffeescript"
+   gem "jekyll-assets"
+   gem "another-jekyll-plugin"
+ end
