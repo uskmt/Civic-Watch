@@ -1,8 +1,130 @@
 theme: jekyll-theme-time-machine
 
+# File: _config.yml
+webrick:
+  headers:
+    My-Header: My-Value
+    My-Other-Header: My-Other-Value
+
 # This will require each of these plugins automatically.
 plugins:
   - jekyll-gist
   - jekyll-coffeescript
   - jekyll-assets
   - another-jekyll-plugin
+
+gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
+
+jekyll build
+# => The current folder will be generated into ./_site
+
+jekyll build --destination <destination>
+# => The current folder will be generated into <destination>
+
+jekyll build --source <source> --destination <destination>
+# => The <source> folder will be generated into <destination>
+
+jekyll build --watch
+# => The current folder will be generated into ./_site,
+#    watched for changes, and regenerated automatically.
+
+jekyll serve
+# => A development server will run at http://localhost:4000/
+# Auto-regeneration: enabled. Use `--no-watch` to disable.
+
+jekyll serve --detach
+# => Same as `jekyll serve` but will detach from the current terminal.
+#    If you need to kill the server, you can `kill -9 1234` where "1234" is the PID.
+#    If you cannot find the PID, then do, `ps aux | grep jekyll` and kill the instance.
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+      
+      # Where things are
+source:          .
+destination:     ./_site
+collections_dir: .
+plugins_dir:     _plugins
+layouts_dir:     _layouts
+data_dir:        _data
+includes_dir:    _includes
+collections:
+  posts:
+    output:   true
+
+# Handling Reading
+safe:                 false
+include:              [".htaccess"]
+exclude:              ["Gemfile", "Gemfile.lock", "node_modules", "vendor/bundle/", "vendor/cache/", "vendor/gems/", "vendor/ruby/"]
+keep_files:           [".git", ".svn"]
+encoding:             "utf-8"
+markdown_ext:         "markdown,mkdown,mkdn,mkd,md"
+strict_front_matter: false
+
+# Filtering Content
+show_drafts: null
+limit_posts: 0
+future:      false
+unpublished: false
+
+# Plugins
+whitelist: []
+plugins:   []
+
+# Conversion
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Serving
+detach:  false
+port:    4000
+host:    127.0.0.1
+baseurl: "" # does not include hostname
+show_dir_listing: false
+
+# Outputting
+permalink:     date
+paginate_path: /page:num
+timezone:      null
+
+quiet:    false
+verbose:  false
+defaults: []
+
+liquid:
+  error_mode: warn
+
+# Markdown Processors
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids:       true
+  entity_output:  as_char
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  input:          GFM
+  hard_wrap:      false
+  footnote_nr:    1
+  
+  {% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
+{% endhighlight %}
+
+  
