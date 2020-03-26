@@ -13,7 +13,6 @@ plugins:
   - jekyll-assets
   - another-jekyll-plugin
 
-gem install jekyll-gist jekyll-coffeescript jekyll-assets another-jekyll-plugin
 
 jekyll build
 # => The current folder will be generated into ./_site
