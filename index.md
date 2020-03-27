@@ -4,8 +4,6 @@
 A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
----
-<div>layout: post</div>
 # Civic Watch Blog 
 
 
