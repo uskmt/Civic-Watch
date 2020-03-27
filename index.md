@@ -6,8 +6,8 @@ A bilingual bridge
 # Civic Watch Post
 
 # basic options
-<li>title: Civic Watch Blog</li>
-<p>author: USKMT GitHub User</p>
+<div>title: Civic Watch Blog</div>
+<li>author: USKMT GitHub User</li>
 <p>email: usakmt@gmail.com</p>
 <p>description: A Civic Watch site</p>
 <p>twitter_username: </P>
