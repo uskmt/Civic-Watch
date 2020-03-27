@@ -5,6 +5,5 @@ To inform, to service, to outreach, to link and to defend our rights, values and
 <li> <a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li></p>
 
 ---
-layout: post
-title: Civic Watch Post
+Civic Watch Post
 ---
