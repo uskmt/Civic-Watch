@@ -6,9 +6,9 @@ A bilingual bridge
 
 # Civic Watch Blog 
 ---
-post
+layout: post
+title: 2020-03-27-first-post1.md
 ---
-<a href="https://github.com/uskmt/Civic-Watch/blob/master/_posts/2020-03-27-first-post1.md"> 詐騙高手 操作 </a>
 
 # basic options
 <div>title: Civic Watch Blog</div>
