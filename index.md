@@ -5,7 +5,7 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 # Civic Watch Blog 
-
+Civic-Watch/_posts/2020-03-27-first-post1.md
 
 # basic options
 <div>title: Civic Watch Blog</div>
