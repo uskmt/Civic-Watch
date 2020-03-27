@@ -5,8 +5,8 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 ---
-layout: post
-title: Civic Watch Blog
+<div>layout: post</div>
+<div>title: Civic Watch Blog</div>
 ---
 
 # basic options
