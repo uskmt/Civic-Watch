@@ -6,7 +6,7 @@ A bilingual bridge
 
 ---
 <div>layout: post</div>
-#Civic Watch Blog 
+# Civic Watch Blog 
 
 
 # basic options
