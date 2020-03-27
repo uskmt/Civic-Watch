@@ -9,7 +9,6 @@ layout: post
 title: Civic Watch Blog
 ---
 
----
 # basic options
 <div>title: Civic Watch Blog</div>
 <div>author: USKMT GitHub User</div>
@@ -17,8 +16,7 @@ title: Civic Watch Blog
 <div>description: A Civic Watch site</div>
 <div>twitter_username: </div>
 <div>github_username: uskmt</div>
----
----
+
 # Build settings
 markdown: kramdown
----
+theme: minima
