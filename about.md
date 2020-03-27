@@ -1,5 +1,6 @@
 ---
-title: about
+layout: page
+title: About
 ---
 #
 公告, 文宣, 資訊, 建言, 活動, 通知 
