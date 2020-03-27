@@ -2,6 +2,7 @@
 ---
 <p>Civic Watch Post</p>
 ---
+
 # basic options
 title: Civic Watch Blog
 author: USKMT GitHub User
