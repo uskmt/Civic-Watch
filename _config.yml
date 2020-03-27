@@ -4,8 +4,8 @@ author: USAKMT GitHub User
 email: usakmt@gmail.com
 description: Civic Watch blog
 twitter_username: 
-github_username:  USAKMT
+github_username:  USKMT
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-architect
+theme: minima
