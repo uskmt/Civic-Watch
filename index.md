@@ -4,7 +4,7 @@
 A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
----
+
 <div>layout: post</div>
 <div>title: Civic Watch Blog</div>
 
@@ -20,4 +20,4 @@ A bilingual bridge
 # Build settings
 <div>markdown: kramdown</div>
 theme: minima
----
+
