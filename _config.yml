@@ -1,1 +1,12 @@
 theme: jekyll-theme-architect
+# basic options
+title: Civic Watch
+author: USAKMT GitHub User
+email: usakmt@gmail.com
+description: Civic Watch blog
+twitter_username: 
+github_username:  USAKMT
+
+# Build settings
+markdown: kramdown
+theme: minima
