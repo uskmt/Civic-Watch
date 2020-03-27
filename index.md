@@ -4,21 +4,12 @@ To inform, to service, to outreach, to link and to defend our rights, values and
 <p>
 <li> <a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li></p>
 
----
-title: About
----
-
-# About this project
-
-In a word: **Awesome!**
 
 ---
 layout: post
 title: A Great First Post
 ---
 
-This is it!
-What a wonderful post!
 
 # basic options
 title: Your awesome title
