@@ -18,6 +18,6 @@ A bilingual bridge
 <div>github_username: uskmt</div>
 
 # Build settings
-markdown: kramdown
+<div>markdown: kramdown</div>
 theme: minima
 ---
