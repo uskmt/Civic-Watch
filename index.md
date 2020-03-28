@@ -4,10 +4,6 @@ A bilingual bridge
 
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
-# Civic Watch Blog 
-
-https://github.com/uskmt/Civic-Watch/blob/master/_posts/2020-03-27-first-post1.md
-
 # basic options
 <div>title: Civic Watch Blog</div>
 <div>author: USKMT GitHub User</div>
