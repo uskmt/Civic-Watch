@@ -15,7 +15,7 @@ A bilingual bridge
 
 
 
-
+{% include foot.html %} 
 <div class="footer-col-wrapper">
 <div>Title: Civic Watch Blog </div>
 <div>Author: USAKMT GitHub User</div>
