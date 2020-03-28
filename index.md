@@ -16,7 +16,7 @@ layout: home
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 
-
+_layouts/default.html
 
 <div class="footer-col-wrapper">
 <div>Title: Civic Watch Blog </div>
