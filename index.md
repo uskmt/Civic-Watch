@@ -13,7 +13,7 @@ A bilingual bridge
 
 
 
-# basic options
+# Basic Options
 <div>Title: Civic Watch Blog </div>
 <div>Author: USAKMT GitHub User</div>
 <div>Email: usakmt@gmail.com</div>
