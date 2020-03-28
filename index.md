@@ -3,16 +3,3 @@
 A bilingual bridge
 
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
-
-# basic options
-<div>title: Civic Watch Blog</div>
-<div>author: USKMT GitHub User</div>
-<div>email: usakmt@gmail.com</div>
-<div>description: A Civic Watch site</div>
-<div>twitter_username: </div>
-<div>github_username: uskmt</div>
-
-# Build settings
-<div>markdown: kramdown</div>
-theme: minima
-
