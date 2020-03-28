@@ -5,11 +5,9 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 # Home
-{% include head.html %} 
+
 # post
----
-layout: default
----
+
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
 <header class="post-header">
