@@ -11,6 +11,8 @@ A bilingual bridge
 
 
 
+# Civic Watch Wiki
+<li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 
 # Basic Options
