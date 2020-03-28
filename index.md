@@ -7,15 +7,14 @@ A bilingual bridge
 # Home
 {% include head.html %} 
 # post
-
-
+{% layouts home.html %} 
 
 # Civic Watch Wiki
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 
 
-{% include foot.html %} 
+
 <div class="footer-col-wrapper">
 <div>Title: Civic Watch Blog </div>
 <div>Author: USAKMT GitHub User</div>
