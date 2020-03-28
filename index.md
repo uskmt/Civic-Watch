@@ -5,6 +5,4 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 # Post
----
-layout: post
----
+
