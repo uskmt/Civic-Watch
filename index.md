@@ -4,13 +4,11 @@ A bilingual bridge
 
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
-# Post
-% layouts head.html %
----
-layout: home
----
+# Home
+% layouts default.html% 
 
-
+# post
+% layouts post.html% 
 
 
 # Civic Watch Wiki
