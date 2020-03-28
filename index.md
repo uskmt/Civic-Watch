@@ -5,8 +5,9 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 # Post
-
-
+---
+layout: home
+---
 
 
 
@@ -15,13 +16,15 @@ A bilingual bridge
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 
-# Basic Options
+@@ -1,3 +1,4 @@
+@@ -5,7 +5,13 @@
+
+<div class="footer-col-wrapper">
+<div class="footer-col">
 <div>Title: Civic Watch Blog </div>
 <div>Author: USAKMT GitHub User</div>
 <div>Email: usakmt@gmail.com</div>
 <div>Description: Civic Watch blog</div>
 <div>Github_username:  USKMT</div>
 
----
-layout: home
----
+
