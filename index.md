@@ -14,8 +14,8 @@ A bilingual bridge
 
 
 # basic options
-<div>title: Civic Watch Blog </div>
-<div>author: USAKMT GitHub User</div>
-<div>email: usakmt@gmail.com</div>
-<div>description: Civic Watch blog</div>
-<div>github_username:  USKMT</div>
+<div>Title: Civic Watch Blog </div>
+<div>Author: USAKMT GitHub User</div>
+<div>Email: usakmt@gmail.com</div>
+<div>Description: Civic Watch blog</div>
+<div>Github_username:  USKMT</div>
