@@ -5,10 +5,9 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > usakmt blog </a></li>
 
 # Home
-% layouts default.html% 
-
+{% include head.html %} 
 # post
-% layouts post.html% 
+
 
 
 # Civic Watch Wiki
