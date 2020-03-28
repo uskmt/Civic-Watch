@@ -6,3 +6,15 @@ A bilingual bridge
 
 # Post
 
+
+
+
+
+
+
+
+title: Civic Watch Blog 
+author: USAKMT GitHub User
+email: usakmt@gmail.com
+description: Civic Watch blog
+github_username:  USKMT
