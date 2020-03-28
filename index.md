@@ -6,7 +6,7 @@ A bilingual bridge
 
 # Home
 
-# post
+# Post
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
