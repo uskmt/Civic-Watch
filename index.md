@@ -5,14 +5,18 @@ A bilingual bridge
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 
-
-![Hits](https://github.com/brentvollebregt/hit-counter)
+let targetUrl = 'www.example.com';
+let query = '?url=' + encodeURIComponent(targetUrl);
+let xmlHttp = new XMLHttpRequest();
+xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
+xmlHttp.send(null);
+count = xmlHttp.responseText;
 
 # Post
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
 
 <p></p>
-<script type="text/javascript" src="//counter.websiteout.net/js/13/10/0/0"></script>
+
 <pre>
 title: Civic Watch Blog   author: USAKMT User   github_username: USKMT   
 email: usakmt@gmail.com   description: Blog  
