@@ -9,6 +9,6 @@ A bilingual bridge
 
 ___
 <pre>
-###### title: Civic Watch Blog   author: USAKMT User &nbsp;&nbsp;  github_username: USKMT &nbsp;&nbsp;email: usakmt@gmail.com &nbsp;&nbsp;  description: Civic Watch Blog  
+##### title: Civic Watch Blog   author: USAKMT User  github_username: USKMT   email: usakmt@gmail.com  description: Blog  
 </pre>
 ___ 
