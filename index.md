@@ -9,5 +9,5 @@ A bilingual bridge
 
 >
 > ###### Title: Civic Watch Blog    Author: USAKMT GitHub User       Github_username: USKMT
-> ###### Email: usakmt@gmail.com    Description: Civic Watch blog  
+  ###### Email: usakmt@gmail.com    Description: Civic Watch blog  
 
