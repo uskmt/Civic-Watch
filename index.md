@@ -11,8 +11,6 @@ A bilingual bridge
 # Post
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
 
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 <p></p>
 
 <pre>
