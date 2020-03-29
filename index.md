@@ -8,5 +8,5 @@ A bilingual bridge
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
 
 ___
-###### Title: Civic Watch Blog &nbsp;&nbsp;Author: USAKMT User &nbsp;&nbsp;  Github_username: USKMT &nbsp;&nbsp;Email: usakmt@gmail.com &nbsp;&nbsp;  Description: Civic Watch blog  
+###### title: Civic Watch Blog &nbsp;&nbsp;author: USAKMT User &nbsp;&nbsp;  github_username: USKMT &nbsp;&nbsp;email: usakmt@gmail.com &nbsp;&nbsp;  description: Civic Watch Blog  
  
