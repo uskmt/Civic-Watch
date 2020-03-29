@@ -4,11 +4,8 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > USAKMT Civic Watch </a></li>
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
-
-let targetUrl = 'www.example.com';
-let query = '?url=' + encodeURIComponent(targetUrl);
 let xmlHttp = new XMLHttpRequest();
-xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/nocount' + query, false);
+xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', false);
 xmlHttp.send(null);
 count = xmlHttp.responseText;
 
