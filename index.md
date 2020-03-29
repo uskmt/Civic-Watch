@@ -8,8 +8,6 @@ A bilingual bridge
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
 
 # basic options
-title: Civic Watch Blog 
-author: USAKMT GitHub User
-email: usakmt@gmail.com
-description: Civic Watch blog
-github_username:  USKMT
+<div>Title: Civic Watch Blog      Author: USAKMT GitHub User      Github_username:  USKMT</div>
+<div>Email: usakmt@gmail.com      Description: Civic Watch blog  </div>
+
