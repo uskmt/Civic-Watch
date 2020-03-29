@@ -5,4 +5,4 @@ A bilingual bridge
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
 ## Post
-<li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
+<li><a href=" https://github.com/uskmt/Civic-Watch/blob/master/_posts/2020-03-27-first-post1.md "> 少一點口水 多點汗水 世界會更好 </a></li>
