@@ -4,10 +4,14 @@ A bilingual bridge
 <li><a href="http://classic-blog.udn.com/usakmt" > USAKMT Civic Watch </a></li>
 <li><a href="https://github.com/uskmt/Civic-Watch/wiki"> Civic Watch Wiki </a></li>
 
-let xmlHttp = new XMLHttpRequest();
-xmlHttp.open('GET', 'https://hitcounter.pythonanywhere.com/count', false);
-xmlHttp.send(null);
-count = xmlHttp.responseText;
+
+
+<!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7217379&style=0021&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" >
+</a>                                    
+                
+
 
 # Post
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
