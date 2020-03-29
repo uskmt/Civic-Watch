@@ -1,6 +1,6 @@
 - name: Pages
-link: 
+link: /page.md
 - name: About
-link: /about.html
+link: /about.md
 - name: Blog
-link: /blog.html
+link: /blog.md
