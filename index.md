@@ -11,12 +11,11 @@ A bilingual bridge
                                   
                 
 
-
 # Post
 <li><a href="http://city.udn.com/62934/6925860"> 少一點口水 多點汗水 世界會更好 </a></li>
 <li><a href="http://city.udn.com/62934/7010538"> 假民主</a></li>
 <li><a href="http://city.udn.com/62934/7012143">I killed</a></li>
-<pre>
+<li><a href="http://city.udn.com/62934/7014163"> 換掉 孬種 川普 </a></li><pre>
 title: Civic Watch Blog   author: USAKMT User   github_username: USKMT   
 email: usakmt@gmail.com   description: Blog  
 </pre>
